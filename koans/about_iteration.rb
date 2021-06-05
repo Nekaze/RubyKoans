@@ -121,5 +121,7 @@ class AboutIteration < Neo::Koan
   # --------ANSWER--------
   # To avoid unnecesary resource allocation for the creation of the file object.
   # By using the do | | syntax, the object is limited only to the scope where it is used
-
+  #
+  # ---RECHECKED ANSWER---
+  # To handle sandwich code :D 
 end
